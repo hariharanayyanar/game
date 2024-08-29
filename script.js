@@ -25,11 +25,11 @@ const quizData = [
     correct: "c",
   },
   {
-    question: "what is called as the "roof of the world?",
-    a: "indira point",
-    b: "kanchenjunga",
-    c: "pamir knot",
-    d: "none of the above",
+    question: "what is india's national sport?",
+    a: "hockey",
+    b: "cricket",
+    c: "basketball",
+    d: "football",
     correct: "a",
   },
  {
