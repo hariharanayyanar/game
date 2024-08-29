@@ -26,9 +26,9 @@ const quizData = [
   },
   {
     question: "what is called as the "roof of the world?",
-    a: "Indira Point",
-    b: "Kanchenjunga",
-    c: "Pamir Knot",
+    a: "indira point",
+    b: "kanchenjunga",
+    c: "pamir knot",
     d: "none of the above",
     correct: "a",
   },
