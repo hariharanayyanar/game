@@ -25,7 +25,7 @@ const quizData = [
     correct: "c",
   },
   {
-    question: "what is called as the "Roof of the World?",
+    question: "what is called as the "roof of the world?",
     a: "Indira Point",
     b: "Kanchenjunga",
     c: "Pamir Knot",
@@ -34,7 +34,7 @@ const quizData = [
   },
  {
     question: "which gas is the lightest?",
-    a: "Helium",
+    a: "carbon",
     b: "Ammonia",
     c: "Oxygen",
     d: "Hydrogen",
