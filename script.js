@@ -17,7 +17,7 @@ const quizData = [
     
   },
   {
-    question: "Inwhich continent does india come?",
+    question: "In which continent does india come?",
     a: "Africa",
     b: "Artic",
     c: "Asia",
